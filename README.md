@@ -1,9 +1,9 @@
-## Venom - real-time P2P BFT KV
+## Upbase
 
-[![crates.io](https://meritbadge.herokuapp.com/venom)](https://crates.io/crates/venom)
+[![crates.io](https://meritbadge.herokuapp.com/upbase)](https://crates.io/crates/upbase)
 
 ### Purpose
 
-The purpose of this service is to be a real-time distributed P2P BFT KV.
+The purpose of this crate is to be client to upbase.
 
 Currently this is just a placeholder.

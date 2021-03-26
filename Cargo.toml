@@ -1,13 +1,13 @@
 [package]
-name = "venom"
-version = "0.0.2"
+name = "upbase"
+version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["database", "distributed", "p2p", "BFT", "real-time"]
-description = "Real-time P2P BFT KV"
-repository = "https://github.com/apibillme/venom"
-homepage = "https://venom.dev"
+keywords = ["upbase", "client"]
+description = "Upbase Client"
+repository = "https://github.com/apibillme/upbase-client"
+homepage = "https://upbase.dev"
 readme = "README.md"
 
 [dependencies]
